@@ -7,6 +7,7 @@ namespace Coupon.API.Tests
         [Fact]
         public void Test1()
         {
+            //Was False
             Assert.True(true);
         }
     }
